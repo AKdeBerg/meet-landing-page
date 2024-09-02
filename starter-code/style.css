@@ -138,6 +138,7 @@ header {
 .img-list {
   height: 256px;
   width: 256px;
+  border-radius: 5px;
 }
 
 .main-text-container {
