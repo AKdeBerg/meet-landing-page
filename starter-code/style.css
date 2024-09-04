@@ -34,7 +34,7 @@ header {
   align-items: center;
   flex-direction: row;
   /* gap: 1rem; */
-  margin: 4.5rem -1rem;
+  margin: 4.5rem 0;
 }
 
 .img-left {
