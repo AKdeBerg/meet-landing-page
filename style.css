@@ -49,6 +49,7 @@ header {
   width: 100%;
   height: auto;
   flex-basis: 30%;
+  overflow-x: hidden;
 }
 
 .tab-img {
@@ -287,5 +288,11 @@ footer {
   .footer-heading {
     padding: 0;
     text-align: center;
+  }
+}
+
+@media (max-width: 600px) {
+  .hero-text {
+    padding: 2rem 2vw;
   }
 }
